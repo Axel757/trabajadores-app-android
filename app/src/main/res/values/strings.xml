@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Listado de trabajadores</string>
+    <string name="correo_yuri">El Correo de Yuri</string>
+    <string name="logo_app">logoDeAplicacion</string>
+    <string name="btn_login">Ingresar</string>
+    <string name="btn_listar">Iniciar sesión</string>
+    <string name="input_name">Nombre de usuario</string>
+    <string name="input_pass">Contraseña</string>
+    <string name="rut">Rut</string>
+    <string name="nombre">Nombre</string>
+    <string name="genero">Genero</string>
+    <string name="cargo">Cargo</string>
+    <string name="input_mail">Usuario</string>
+    <string name="listado_trabajadores">Lista de trabajadores: </string>
+</resources>
